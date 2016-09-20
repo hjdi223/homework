@@ -34,7 +34,7 @@ function setup() {
         image(diet,0,0,30,70);
       }
       translate();
-      pop();
+      pop(); 
     }
     else{
       image(diet,counter*100,0,30,70);
